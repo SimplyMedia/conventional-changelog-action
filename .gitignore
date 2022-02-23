@@ -67,3 +67,6 @@ typings/
 
 # build output
 lib
+
+# vscode history
+.history
